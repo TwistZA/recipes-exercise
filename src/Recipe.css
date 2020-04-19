@@ -1,0 +1,17 @@
+.card_img{
+    width:200px;
+    height:150px;
+  
+    justify-content: center;
+    display: flex;
+    z-index: 2;
+    align-items: center;
+  
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+  
+    -webkit-box-shadow: 1px 1px 16px 5px rgba(0,0,0,1);
+    -moz-box-shadow: 1px 1px 16px 5px rgba(0,0,0,1);
+     box-shadow: 1px 1px 16px 5px rgba(0,0,0,1);
+  }

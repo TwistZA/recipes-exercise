@@ -1,0 +1,12 @@
+.recipeHome{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+
+h4{
+    text-align: center;
+}
+
